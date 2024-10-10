@@ -1,5 +1,5 @@
 import reactLogo from './assets/react.svg'
-import viteLogo from '/codechef.svg'
+import codechefLogo from './assets/codechef.svg'
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <>
       <div>
         <a href="https://codechef.com" target="_blank">
-          <img src={viteLogo} className="logo" alt="CodeChef logo" />
+          <img src={codechefLogo} className="logo" alt="CodeChef logo" />
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
